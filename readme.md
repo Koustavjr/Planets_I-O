@@ -1,4 +1,4 @@
-A project based on file I/O opetations in Javascript.
+A project based on file I/O operations in Javascript.
 
 1. To install package.json
 ```
